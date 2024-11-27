@@ -4,7 +4,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pawelp0499/ensemble-learning-football-predictor?style=plastic"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pawelp0499/ensemble-learning-football-predictor?style=plastic">
 
 
-
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/128/1407/1407129.png" width="150" height="150" /></p>
 
 ## Project's purpose
 **Why? What's new introduced?**
@@ -24,6 +24,8 @@
 
 🎯 Searching for the optimal predictor and build it as strong as possible
 
+
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/128/4389/4389656.png" width="150" height="150" /></p>
 
 ## Description
 
@@ -83,7 +85,7 @@ a little teaser below..
 
 🔧 Pandas 🔧 Numpy 🔧 GridSearchCV 🔧 Scikit-learn 🔧 Seaborn 🔧 XGBoost 🔧 Plotnine 🔧 Matplotlib   
 
-versionsof some python libraries available in 'requirements.txt' file
+versions of some python libraries available in 'requirements.txt' file
 
 ## Run
 
@@ -107,6 +109,9 @@ main.ipynb
 
 ## Icons
 
+<a href="https://www.flaticon.com/free-icons/plan" title="plan icons">Plan icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/stadium" title="stadium icons">Stadium icons created by Freepik - Flaticon</a>
 
 
 Copyright (c) 2024 Paweł Pechta
