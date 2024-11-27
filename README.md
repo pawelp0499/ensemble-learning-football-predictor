@@ -7,7 +7,7 @@
 
 
 ## Project's purpose
-**Why? What's new?**
+**Why? What's new introduced?**
 
 ☑️ Classic models often turn out to be inefficient in the specifics of football prediction, especially in predicting draw results
 
@@ -23,8 +23,6 @@
 🎯 Compare efficiency of ensemble predictors vs individual ones
 
 🎯 Searching for the optimal predictor and build it as strong as possible
-
-
 
 
 ## Description
@@ -72,14 +70,20 @@ The project presents several machine learning approaches to predicting football 
 ✅ For each of the above algorithms, the GridSearch method was used to search for a set of optimal hyperparameters.
 
 
+a little teaser below..
+
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image.png)
+
 
 ## Built with
 
 **Tech:** Python language with the following libraries
 
-🔧 Pandas 🔧 Numpy 🔧 GridSearchCV 🔧 Scikit-learn 🔧 Seaborn 🔧 Xgboost 🔧 Plotnine 🔧 Matplotlib   
+🔧 Pandas 🔧 Numpy 🔧 GridSearchCV 🔧 Scikit-learn 🔧 Seaborn 🔧 XGBoost 🔧 Plotnine 🔧 Matplotlib   
 
-
+versionsof some python libraries available in 'requirements.txt' file
 
 ## Run
 
