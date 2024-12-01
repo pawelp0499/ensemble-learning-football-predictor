@@ -24,6 +24,10 @@
 
 🎯 Searching for the optimal predictor and build it as strong as possible
 
+**To-do**
+
+💡 adding some descriptions and results interpretations to main file
+
 
 <p align="center"> <img src="https://cdn-icons-png.flaticon.com/128/4389/4389656.png" width="150" height="150" /></p>
 
@@ -37,6 +41,7 @@ The project presents several machine learning approaches to predicting football 
 
 🔥 more than 20 separate machine learning algorithms
 
+**Data source:** https://football-data.co.uk
 
 ## Content
 
